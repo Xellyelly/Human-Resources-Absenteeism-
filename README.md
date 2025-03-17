@@ -1,3 +1,5 @@
+![download (5)](https://github.com/user-attachments/assets/5d07540d-7e09-4732-bd58-8283c46bb6f4)
+
 # Human-Resources-Absenteeism-
 
 ### project overview
