@@ -36,7 +36,8 @@ Feature Engineering:
   ![Screenshot 2025-03-16 095840](https://github.com/user-attachments/assets/118947d8-8ef8-4ada-a5d2-7f64635bcd5c)
 -	Workload is not evenly distributed across all age groups, age of 28-47 experience greater work, almost throughout the month compare to other a
 age group
-![Screenshot 2025-03-15 165656](https://github.com/user-attachments/assets/d0d86565-f1cc-43c7-93ad-c47e25c40218)
+![Screenshot 2025-03-15 151623](https://github.com/user-attachments/assets/a26102d8-a466-4f51-b681-bf56a1e2e821)
+
 4.2. Absenteeism Trends by Body Mass Index (BMI) categories
 -	BMI IS Calculated by dividing the weight of and employee by the corresponding height multiply 100 with square of 2
   ![Screenshot 2025-03-15 152711](https://github.com/user-attachments/assets/805b09a0-9098-4fa3-94c5-222762e07105)
