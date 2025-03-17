@@ -80,10 +80,10 @@ Longer commutes might lead to physical exhaustion and mental stress, long distan
 1. Flexible work hours to accommodate long commutes
 2. 	Remote work options for employees with long distances. and Transportation support, like shuttle services or travel allowances
 3. 	Wellness Programs: Offer programs focused on weight management, exercise, and nutrition. 
-#### -	Example: Organize fitness challenges or weight loss incentives
+ -- Example: Organize fitness challenges or weight loss incentives
 4. Healthy Food Options: Provide nutritious meals in cafeterias and healthy snacks in vending machines. 
-#### -	Example: Replace sugary drinks with water and low-calorie options.
-#### -	Provide free health checks by providing free and Schedule annual health screenings during work hours.
+ --	Example: Replace sugary drinks with water and low-calorie options.
+ --	Provide free health checks by providing free and Schedule annual health screenings during work hours.
 5. internship & Graduate Programs, Create structured programs for recent graduates to learn and grow.
 6. 	Mentorship Programs: Pair young employees with experienced staff for hands-on learning
 7.	Empower young workers with lead roles in less complex projects by Letting them manage small projects with senior supervision.
