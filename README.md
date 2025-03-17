@@ -65,6 +65,29 @@ age group
 -	Employees with the distance of 26 to 52 to work are 19, and total absenteeism is 431 more than times two of employees living closer to work, 5 of these employees has more than two children and at least one pet from 8 recorded of the entire employees
 -	There two employees that are absent once, with id of 4 and 35 and the distance from home is 14 and 10 respectively
   ![Screenshot 2025-03-15 165656](https://github.com/user-attachments/assets/ba1a2c9b-6837-48b8-b653-684a548aa193)
+### 5. Conclusion
+
+1.	The major reason for absenteeism is average workload, there is a positive correlation between average work load and absenteeism, as the average workload increases, the number of absentees also increases
+2.	Workload is not evenly distributed across all age groups, age of 28-47 experience greater              work employees aged 31-50 often hold mid-to-senior-level position and typically more experienced, employees in this range often balance career growth with family responsibilities, making workload more intense.
+3.	there are very low percent of employees below 31.  Companies may lean on experienced workers if there are fewer younger employees. Organizations with aging workforces may see workload spikes in this age bracket.
+4.	Distance of home to work greatly affect the rate at which employees are absent at work,
+Longer commutes might lead to physical exhaustion and mental stress, long distances reduce personal time, making it harder for employees to manage family or personal obligations, mostly during bad weather, which can be the reasons behind high percent of absenteeism reasons due to medical reason
+5.	Employees with obesity are absent the most and 100% of them only attended high school, Obesity increases the risk of chronic health issues (e.g., diabetes, heart disease, joint pain). These conditions may lead to frequent medical appointments and sick days.
+6.	Season, drinking and smoking has no significant contribution to reasons why employees are absent
+
+### RECOMMENDATIONS
+1 Flexible work hours to accommodate long commutes
+2	Remote work options for employees with long distances. and Transportation support, like shuttle services or travel allowances
+3	Wellness Programs: Offer programs focused on weight management, exercise, and nutrition. 
+-	Example: Organize fitness challenges or weight loss incentives
+4	Healthy Food Options: Provide nutritious meals in cafeterias and healthy snacks in vending machines. 
+-	Example: Replace sugary drinks with water and low-calorie options.
+-	Provide free health checks by providing free and Schedule annual health screenings during work hours.
+5	internship & Graduate Programs, Create structured programs for recent graduates to learn and grow.
+6	Mentorship Programs: Pair young employees with experienced staff for hands-on learning
+7	Empower young workers with lead roles in less complex projects by Letting them manage small projects with senior supervision.
+
+
 
 
 
