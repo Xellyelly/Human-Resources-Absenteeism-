@@ -2,6 +2,14 @@
 
 # Human-Resources-Absenteeism-
 
+## Table of contents
+- [project overview](#project overview)
+- [Data preparation process](#Data Preparation Process)
+- [Key Findings](#Key Findings)
+- [Data Analysis and Insights](#Data Analysis and Insights)
+- [Conclusion](#Conclusion)
+- [Recommendations](#Recommendations)
+
 ### project overview
 This report examines the factors contributing to absenteeism in the workplace and determine how to help those who are missing work.  It focuses on key features such as age, season, lifestyle factors, and work-related variables to identify patterns and provide actionable insights.
 
@@ -19,7 +27,7 @@ Feature Engineering:
 - Calculate BMI using individual employee weight and height
 - Grouping month of the year into seasonal (spring, autumn, winter, summer)
 
-#### Encoding Categorical Variables:
+##### Encoding Categorical Variables:
 - Converting one hot coding into categorical coding
 ### Key Findings
 - Total absences are 639
@@ -78,7 +86,7 @@ Longer commutes might lead to physical exhaustion and mental stress, long distan
 5.	Employees with obesity are absent the most and 100% of them only attended high school, Obesity increases the risk of chronic health issues (e.g., diabetes, heart disease, joint pain). These conditions may lead to frequent medical appointments and sick days.
 6.	Season, drinking and smoking has no significant contribution to reasons why employees are absent
 
-### RECOMMENDATIONS
+### Recommendations
 1. Flexible work hours to accommodate long commutes
 2. 	Remote work options for employees with long distances. and Transportation support, like shuttle services or travel allowances
 3. 	Wellness Programs: Offer programs focused on weight management, exercise, and nutrition. 
