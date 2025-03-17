@@ -7,7 +7,7 @@ This report examines the factors contributing to absenteeism in the workplace an
 The primary data sets used for this analysis are "Absenteeisms.csv" and "Employee_info" 
 
 ### Tools
-power bi (DAX)
+power bi (DAX) 
 power bi (Visualisation)
 
 
