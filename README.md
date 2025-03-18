@@ -11,7 +11,7 @@
 - [Recommendations](#recommendations)  
 
 ### project overview
-This report examines the factors contributing to absenteeism in the workplace and determine how to help those who are missing work.  It focuses on key features such as age, season, lifestyle factors, and work-related variables to identify patterns and provide actionable insights.
+This project examines the factors contributing to absenteeism in the workplace and determine how to help those who are missing work.  It focuses on key features such as age, season, lifestyle factors, and work-related variables to identify patterns and provide actionable insights.
 
 ### Data source 
 The primary data sets used for this analysis are "Absenteeisms.csv" and "Employee_info" 
