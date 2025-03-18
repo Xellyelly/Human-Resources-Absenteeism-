@@ -75,7 +75,8 @@ age group
 -	Employees with the distance of 5 to25 to work are 18, and total absenteeism is 208, 3 of these employees has more than two children and at least one pet from 8 recorded
 -	Employees with the distance of 26 to 52 to work are 19, and total absenteeism is 431 more than times two of employees living closer to work, 5 of these employees has more than two children and at least one pet from 8 recorded of the entire employees
 -	There two employees that are absent once, with id of 4 and 35 and the distance from home is 14 and 10 respectively
-  ![Screenshot 2025-03-15 165656](https://github.com/user-attachments/assets/ba1a2c9b-6837-48b8-b653-684a548aa193)
+  ![Screenshot 2025-03-18 102456](https://github.com/user-attachments/assets/cfaf3bfb-0262-4aa3-9971-8d433edb405f)
+
 ### 5. Conclusion
 
 1.	The major reason for absenteeism is average workload, there is a positive correlation between average work load and absenteeism, as the average workload increases, the number of absentees also increases
