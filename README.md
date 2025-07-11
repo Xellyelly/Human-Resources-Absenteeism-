@@ -11,7 +11,8 @@
 - [Recommendations](#recommendations)  
 
 ### project overview
-This project examines the factors contributing to absenteeism in the workplace and determine how to help those who are missing work.  It focuses on key features such as age, season, lifestyle factors, and work-related variables to identify patterns and provide actionable insights.
+This project explored patterns in employee absenteeism to understand key drivers like Nearest to work place, Body mass, and working conditions.
+In other to get insights that can  inform HR strategies like flexible scheduling, workload adjustments, and targeted support—leading to more focused interventions aimed at reducing unplanned absences and improving overall productivity.
 
 ### Data source 
 The primary data sets used for this analysis are "Absenteeisms.csv" and "Employee_info" 
