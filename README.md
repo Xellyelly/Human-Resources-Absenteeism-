@@ -36,6 +36,7 @@ Feature Engineering:
 -	Only two employees are absent once
 
 ### Data Analysis and Insights
+-  [To view power bi dashboard page 1 click here](https://ibb.co/LDc2V0jp)
 4.2. Absenteeism Trends by Season
 -	The season with the highest count of absentee reported is spring, total absences of 195 and majority of the employees which are 30 in numbers are absence during this period
 -	The season with the lowest count of absentee reported is winter, total absences of 138 and 24 employees are absence during this period
